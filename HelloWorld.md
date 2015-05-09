@@ -3,4 +3,4 @@
 
 
 * bullet points can be created with asterix
-* secondary and tertiary title should be began with #
+* secondary and tertiary titles should be began with #
